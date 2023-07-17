@@ -299,25 +299,27 @@ line-height: 26px;
 
 }
 
+.footer-section{
 
-footer{
-
-    
-}
-
-.footerr{
-    background-color:#FFF4E7 ;
-    
-    height: 100px; 
-   
-    padding: 0px 240px;
-    
+    background-color: #FFF4E7;
+    margin-left: 240px;
+    margin-right: 240px;
+    height: 100px;
     text-align: center;
-    justify-content: center;
     
+
 }
+.footer-section h3{
 
+   margin-top: 50px;
+    
 
+}
+.balersection{
+  
+    position: relative;
+    top: 50px;
+}
 
 
 
